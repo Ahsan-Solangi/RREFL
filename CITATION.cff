@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "RR-EFL and Quick-Adapt: code and run logs for the WIFS 2026 paper"
+authors:
+  - family-names: Ali
+    given-names: Ahsan
+    affiliation: "Campus Computing Centre, United Nations University"
+  - family-names: Chong
+    given-names: "Ng S. T."
+    affiliation: "Campus Computing Centre, United Nations University"
+license: MIT
+repository-code: "https://github.com/Ahsan-Solangi/RREFL"
+version: "1.0"
+keywords:
+  - deepfake detection
+  - few-shot adaptation
+  - meta-learning
+  - Reptile
+  - CLIP
+preferred-citation:
+  type: conference-paper
+  title: "Round-Robin Episodic Few-Shot Learning for Generalizable Deepfake Detection with Rapid Adaptation"
+  authors:
+    - family-names: Ali
+      given-names: Ahsan
+      affiliation: "Campus Computing Centre, United Nations University"
+    - family-names: Chong
+      given-names: "Ng S. T."
+      affiliation: "Campus Computing Centre, United Nations University"
+  collection-title: "Proceedings of the IEEE International Workshop on Information Forensics and Security (WIFS)"
+  conference:
+    name: "IEEE International Workshop on Information Forensics and Security (WIFS 2026)"
+    city: Sendai
+    country: JP
+  year: 2026

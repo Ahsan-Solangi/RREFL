@@ -1,0 +1,13 @@
+# Figures only (scripts/make_figures.py, scripts/parse_nb.py)
+numpy
+matplotlib
+
+# Full notebook run (Google Colab, NVIDIA L4; tested with torch 2.11.0+cu130, Kaggle CLI 2.2.4)
+torch
+open_clip_torch
+pandas
+scikit-learn
+pillow
+kaggle>=1.8
+kagglesdk
+huggingface_hub
